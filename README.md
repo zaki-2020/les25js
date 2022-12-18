@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <title>Mijn webpagina</title>
 <script
-src="http://code.jquery.com/jquery-3.1.0.min.js"></script>
+src="http://code.jquery.com/jquery-3.1.0.min.js"> </script>
 <script type="text/javascript">
 $(document).ready(function() {
 $("#knop").click(function() {
